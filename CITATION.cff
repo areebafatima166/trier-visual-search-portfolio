@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both this repository and the original dataset."
+title: "Colour History and Distractor Effects in Interleaved and Blocked Visual Search: Secondary Analysis of Experiment 3"
+type: software
+authors:
+  - family-names: "Fatima"
+    given-names: "Areeba"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Adam
+        given-names: Kirsten C. S.
+      - family-names: Patel
+        given-names: Titiksha
+      - family-names: Rangan
+        given-names: Nicole
+      - family-names: Serences
+        given-names: John T.
+    title: "Classic Visual Search Effects in an Additional Singleton Task: An Open Dataset"
+    journal: "Journal of Cognition"
+    volume: 4
+    issue: 1
+    year: 2021
+    doi: "10.5334/joc.182"
