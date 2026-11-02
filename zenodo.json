@@ -1,0 +1,12 @@
+{
+  "title": "Colour History and Distractor Effects in Interleaved and Blocked Visual Search: Secondary Analysis of Experiment 3",
+  "description": "Reproducible secondary analysis of aggregate Experiment 3 data from Adam, Patel, Rangan & Serences (2021). Includes mixed-model code (Python and R) and results. Does not redistribute the original data. Code and draft text were developed with the assistance of an AI model; the author reviewed the analysis.",
+  "upload_type": "software",
+  "license": "mit-license",
+  "creators": [{"name": "Fatima, Areeba"}],
+  "keywords": ["visual search", "additional singleton", "colour history", "linear mixed models", "secondary analysis", "reproducibility"],
+  "related_identifiers": [
+    {"identifier": "10.5334/joc.182", "relation": "isDerivedFrom", "resource_type": "publication-article"},
+    {"identifier": "https://osf.io/u7wvy/", "relation": "isDerivedFrom", "resource_type": "dataset"}
+  ]
+}
