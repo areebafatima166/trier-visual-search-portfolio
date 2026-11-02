@@ -1,0 +1,7 @@
+or, in R: `Rscript r/exp3_models.R data/raw`
+
+## Licence
+Code: MIT. Source data: OSF project u7wvy; licence not yet verified, so the data are not redistributed here.
+
+## Citation
+See CITATION.cff. Please also cite the original dataset (DOI 10.5334/joc.182).
